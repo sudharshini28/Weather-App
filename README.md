@@ -24,7 +24,8 @@ A simple and responsive Weather Application that provides real-time weather info
 To practice API integration, responsive design, and front-end development concepts while building a functional real-world project.
 
 ## 📸 Screenshots
-(Add your UI screenshots here)
+<img width="537" height="643" alt="Screenshot 2025-11-26 163150" src="https://github.com/user-attachments/assets/3223dee9-03ef-4341-b9d6-54ba89b162eb" />
+
 
 ## 📄 License
 This project is open-source and free to use.
